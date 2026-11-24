@@ -1,0 +1,11 @@
+{
+  "sources": [
+    { "type": "hn_hiring", "limit": 400 },
+    { "type": "remoteok" },
+    { "type": "telegram", "channel": "cryptojobslist" },
+    { "type": "telegram", "channel": "remotejobs" }
+  ],
+  "include": ["contract", "freelance", "part-time", "telegram bot", "mini app", "scraping"],
+  "exclude": ["on-site", "onsite", "relocation", "unpaid"],
+  "max_age_hours": 72
+}

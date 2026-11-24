@@ -1,0 +1,6 @@
+radar.db
+config.json
+*.csv
+out.json
+__pycache__/
+.venv/
